@@ -31,7 +31,7 @@ from Kaneki.modules.helper_funcs.misc import paginate_modules
 from Kaneki.modules.helper_funcs.alternate import typing_action
 
 
-PM_START_TEXT = f"""
+PM_START_TEXT = """
 Hey There ! My name is {}!
 I'm here to make your group management fun and easy!
 I have lots of handy features, such as flood control, a warning system, a note keeping system, and even replies on predetermined filters.
